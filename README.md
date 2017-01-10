@@ -15,21 +15,28 @@ Two types of USERS:
 ADMIN:
 	can create 
 			users
+			
 			pages
+			
 			categories
+			
 			delete users
 
 NORMAL USER
 	can 
 		view pages
+		
 		create pages
+		
 		edit pages
 
 Anonymous user can view the index page and each page view
 
 Entities:
 	Page
+	
 	User
+	
 	Category
 	
 Each Entity has CRUD implementation 
