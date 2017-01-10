@@ -33,6 +33,7 @@ NORMAL USER
 Anonymous user can view the index page and each page view
 
 Entities:
+
 	Page
 	
 	User
